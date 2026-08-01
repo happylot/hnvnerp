@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "company_name": "CÔNG TY CỔ PHẦN KẾT NỐI THƯƠNG MẠI TOÀN CẦU MCV",
+    "tax_code": "0111272400",
+    "company_address": "N06BT08 Khu đô thị Sunny Garden City, Xã Quốc Oai, TP Hà Nội",
+    "credential_email": "phuc189@gmail.com",
+    "leader_name": "Tony Phúc",
+    "industry": "Xây dựng, thi công công trình và cho thuê thiết bị",
+    "company_scale": null,
+    "departments": [
+        "Mua hàng"
+    ],
+    "priority_modules": [
+        "Quản lý thiết bị",
+        "Tồn kho và vị trí thiết bị",
+        "Công việc và nhắc việc",
+        "Cảnh báo bảo dưỡng",
+        "Checklist hồ sơ dự án",
+        "Kiểm tra chứng từ và hóa đơn",
+        "Tìm kiếm AI cho lãnh đạo",
+        "Bảng điều hành",
+        "Mua hàng",
+        "Dự án",
+        "Kế toán",
+        "Thư viện tài liệu và media",
+        "Tin nhắn nội bộ"
+    ],
+    "created_at": "2026-08-01T15:24:26.000000Z"
+}
